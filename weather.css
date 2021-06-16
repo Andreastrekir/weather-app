@@ -1,0 +1,70 @@
+
+body{
+	text-align: center;
+	background-color: #7B68EE;
+
+}
+
+h1{
+	background-color: #DDA0DD;
+	color: #40E0D0;
+}
+
+button{
+	width: 150px;
+	height: 30px;
+	background-color: #FF6347;
+}
+
+input{
+	width: 300px;
+	height: 40px;
+}
+
+.new{
+	border:5px solid black;
+	border-radius: 20px;
+	border-color: #40E0D0;
+	width: 300px;
+	margin-left: 800px;
+	margin-top: 40px;
+	background-color:#40E0D0; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
